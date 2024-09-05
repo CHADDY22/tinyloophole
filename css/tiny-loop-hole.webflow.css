@@ -469,7 +469,7 @@
 .image-23 {
   cursor: pointer;
   width: auto;
-  margin: 40px auto;
+  margin: 10px;
   transition: width .5s;
   display: block;
 }
@@ -984,6 +984,19 @@
   height: 100%;
   display: block;
   position: static;
+}
+
+.link-5, .link-6 {
+  color: var(--black);
+}
+
+.link-block-5 {
+  flex-flow: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
 }
 
 @media screen and (max-width: 991px) {
