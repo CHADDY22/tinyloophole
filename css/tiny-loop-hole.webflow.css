@@ -147,6 +147,8 @@
 
 .image-15.booking {
   flex: none;
+  height: auto;
+  display: block;
 }
 
 .portfolio-wrap {
@@ -659,6 +661,8 @@
 
 .image-29 {
   width: 200px;
+  height: auto;
+  display: block;
   position: absolute;
   inset: auto auto 0% 8%;
 }
